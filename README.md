@@ -1,2 +1,12 @@
-# webinar-about-me
-Enter Tech School 09/10/24
+# Selena Dávila
+hola a todos 
+
+# Experiencia Profesional
+- a
+- a
+- a
+
+# Proyectos
+- d
+- d
+- d
